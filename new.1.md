@@ -9,7 +9,8 @@ $$
 $$
 
 | das |  |  | das |  |  |
-|--|--|--|--|--|--|
+|--|--|--|--
+|--|--|
 | ist |  |
 |eine|  |
 |--|--|
@@ -23,5 +24,6 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3Mzk2NTM4NywtMTQ5OTM0NjUwOV19
+eyJoaXN0b3J5IjpbLTEwNDY0MjczNjMsMTQ3Mzk2NTM4NywtMT
+Q5OTM0NjUwOV19
 -->
