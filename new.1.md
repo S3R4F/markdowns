@@ -1,5 +1,7 @@
 > Ach so machst du das mit die Strich
  # Markdown
+
+
  Wie es dazu kam dass ich **markdown** lernte...
 * ich habe keine Ahnung aber mit dem * macht man so Listen.
 * weil es so viel Spaß macht hier gleich noch ein Punkt...
@@ -20,10 +22,25 @@ $$
 |  |  |
 
 
+|  	|  	|  	|  	|  	|  	|  	|
+|---	|-----	|--------------	|----	|-----------	|---------	|----------	|
+|  	|  	| das ist geil 	|  	|  	|  	|  	|
+|  	|  	|  	|  	| schreiben 	|  	|  	|
+|  	|  	|  	|  	|  	|  	|  	|
+|  	|  	|  	|  	|  	|  	|  	|
+|  	|  	|  	|  	|  	|  	|  	|
+|  	|  	|  	|  	|  	|  	|  	|
+|  	|  	|  	|  	| ich 	| kann 	|  einfach 	|
+|  	|  	|  	|  	|  	|  	|  	|
+|  	|  	|  	|  	|  	|  	|  	|
+|  	|  	|  	| in 	|  	|  	|  	|
+|  	| die 	|  	|  	|  	| Tabelle 	|  	|
+|  	|  	|  	|  	|  	|  	|  	|
+```
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDY0MjczNjMsMTQ3Mzk2NTM4NywtMT
-Q5OTM0NjUwOV19
+eyJoaXN0b3J5IjpbOTQxNjI4MDMzLC0xMDQ2NDI3MzYzLDE0Nz
+M5NjUzODcsLTE0OTkzNDY1MDldfQ==
 -->
